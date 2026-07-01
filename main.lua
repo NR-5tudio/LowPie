@@ -1,0 +1,1 @@
+print("Hello world!") -- My first lua code :D
